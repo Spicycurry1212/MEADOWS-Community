@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 MEADOWS Community
+#  🦊MEADOWS Community
 
 **The official community hub for MEADOWS.**
 
