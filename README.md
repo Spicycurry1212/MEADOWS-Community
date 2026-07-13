@@ -1,172 +1,172 @@
 <div align="center">
 
-#  🦊MEADOWS Community
+# 🦊 MEADOWS Community
 
-**The official community hub for MEADOWS.**
+**Le centre communautaire officiel de MEADOWS.**
 
-Report bugs • Suggest features • Follow development • Help shape the future of MEADOWS
+Signaler un bug • Proposer une fonctionnalité • Suivre le développement • Contribuer à l'évolution de MEADOWS
 
-[Report a Bug](../../issues/new) •
-[Request a Feature](../../issues/new) •
-[Discussions](../../discussions) •
-[Roadmap](../../projects)
+[🐞 Signaler un bug](../../issues/new) •
+[💡 Proposer une fonctionnalité](../../issues/new) •
+[💬 Discussions](../../discussions) •
+[🗺️ Feuille de route](../../projects)
 
 ---
 
-> 🚧 **MEADOWS is currently in active development.**  
-> This repository exists for community feedback, discussions, bug reports, feature requests, and development updates.
+> 🚧 **MEADOWS est actuellement en développement actif.**  
+> Ce dépôt est destiné aux retours de la communauté, aux discussions, aux signalements de bugs, aux suggestions de fonctionnalités et aux mises à jour du développement.
 
 </div>
 
 ---
 
-# Welcome
+# 👋 Bienvenue
 
-Welcome to the official **MEADOWS Community** repository.
+Bienvenue dans le dépôt officiel de la communauté **MEADOWS**.
 
-MEADOWS is an all-in-one desktop platform built for gamers, bringing together real-time communication, gaming presence, media sharing, and a customizable overlay into a single experience.
+MEADOWS est une plateforme de bureau tout-en-un conçue pour les joueurs, réunissant la communication en temps réel, la présence en jeu, le partage de médias et un overlay entièrement personnalisable dans une seule application.
 
-This repository is **not** the source code for MEADOWS.
+⚠️ **Ce dépôt ne contient pas le code source de MEADOWS.**
 
-Instead, it's the central place where the community can:
+Il sert de point central où la communauté peut :
 
-- 🐞 Report bugs
-- 💡 Suggest new features
-- 💬 Join discussions
-- 📰 Read development updates
-- 🗺️ Track upcoming features
-- 📢 Stay informed about new releases
-
----
-
-# 🚀 Current Development Status
-
-MEADOWS is currently in an **early prototype stage**.
-
-Many core features are already available, while others are actively being developed or planned for future releases.
-
-Expect:
-
-- Frequent updates
-- New features
-- UI improvements
-- Performance optimizations
-- Occasional bugs
-
-Community feedback is an important part of the development process.
+- 🐞 Signaler des bugs
+- 💡 Proposer de nouvelles fonctionnalités
+- 💬 Participer aux discussions
+- 📰 Suivre les mises à jour du développement
+- 🗺️ Découvrir les fonctionnalités à venir
+- 📢 Consulter les annonces et notes de version
 
 ---
 
-# 🛣️ Roadmap
+# 🚀 État du développement
 
-Development is divided into multiple stages.
+MEADOWS est actuellement au stade de **prototype en développement actif**.
 
-## ✅ Available Today
+Plusieurs fonctionnalités principales sont déjà disponibles, tandis que d'autres sont en cours de développement ou prévues pour les prochaines versions.
 
-- User accounts
-- Friends system
-- Real-time messaging
-- Group conversations
+Vous pouvez vous attendre à :
+
+- 🚀 Des mises à jour fréquentes
+- ✨ De nouvelles fonctionnalités
+- 🎨 Des améliorations de l'interface
+- ⚡ Des optimisations de performance
+- 🐞 Quelques bogues occasionnels
+
+Les retours de la communauté jouent un rôle essentiel dans l'évolution du projet.
+
+---
+
+# 🗺️ Feuille de route
+
+Le développement de MEADOWS est divisé en plusieurs étapes.
+
+## ✅ Disponible aujourd'hui
+
+- Comptes utilisateurs
+- Système d'amis
+- Messagerie en temps réel
+- Conversations de groupe
 - Rich Presence
-- Automatic game detection
-- Community feed
-- Media uploads
-- Desktop overlay
-- Automatic updates
+- Détection automatique des jeux
+- Fil d'actualité communautaire
+- Téléversement de médias
+- Overlay personnalisable
+- Mises à jour automatiques
 
 ---
 
-## 🚧 In Development
+## 🚧 En développement
 
-- Better profiles
-- Improved notifications
-- Search improvements
-- More overlay widgets
-- Better media management
-- Performance improvements
-- Accessibility improvements
+- Profils améliorés
+- Système de notifications amélioré
+- Recherche avancée
+- Nouveaux widgets pour l'overlay
+- Gestion des médias améliorée
+- Optimisations des performances
+- Améliorations de l'accessibilité
 
 ---
 
-## 🔮 Planned
+## 🔮 Prévu
 
-- Communities
-- Voice Chat
+- Communautés
+- Chat vocal
 - Looking For Group (LFG)
-- Events
-- Plugin System
-- Theme Marketplace
-- Cloud Sync
-- Mobile Companion
-- Streamer Tools
-- Public API
+- Événements
+- Système de plugins
+- Marketplace de thèmes
+- Synchronisation infonuagique
+- Application mobile compagnon
+- Outils pour créateurs de contenu
+- API publique
 
 ---
 
-# 🤝 Contributing Feedback
+# 🤝 Contribuer
 
-There are several ways to contribute.
+Il existe plusieurs façons de contribuer au projet.
 
-## 🐞 Report Bugs
+## 🐞 Signaler un bug
 
-Found something broken?
+Vous avez trouvé un problème ?
 
-Open a Bug Report and include:
+Créez un rapport de bug en incluant :
 
-- Steps to reproduce
-- Expected behavior
-- Actual behavior
-- Screenshots (if applicable)
+- Les étapes pour reproduire le problème
+- Le comportement attendu
+- Le comportement observé
+- Des captures d'écran (si possible)
 
 ---
 
-## 💡 Suggest Features
+## 💡 Proposer une fonctionnalité
 
-Have an idea?
+Vous avez une idée ?
 
-Create a Feature Request and explain:
+Créez une demande de fonctionnalité en expliquant :
 
-- What you'd like to see
-- Why it would be useful
-- Possible implementation
+- Ce que vous aimeriez voir
+- Pourquoi cette fonctionnalité serait utile
+- Une idée de son fonctionnement (facultatif)
 
 ---
 
 ## 💬 Discussions
 
-Want to talk about MEADOWS?
+Vous souhaitez discuter de MEADOWS ?
 
-Visit the Discussions section for:
+La section **Discussions** est l'endroit idéal pour :
 
-- Questions
-- Ideas
-- Feedback
-- General conversations
-
----
-
-# 📢 Development Updates
-
-Development progress, release notes, and announcements will be posted regularly through GitHub Discussions.
-
-Follow the repository to stay informed.
+- Poser des questions
+- Partager vos idées
+- Donner votre avis
+- Échanger avec la communauté
 
 ---
 
-# ❤️ Thank You
+# 📢 Mises à jour du développement
 
-MEADOWS is being built one step at a time.
+Les annonces, journaux de développement (*Dev Logs*) et notes de version seront publiés régulièrement dans la section **Discussions** de GitHub.
 
-Every bug report, suggestion, and discussion helps improve the platform.
+N'hésitez pas à suivre le dépôt afin de rester informé des dernières nouveautés.
 
-Thank you for being part of the journey.
+---
+
+# ❤️ Merci
+
+MEADOWS évolue grâce à sa communauté.
+
+Chaque bug signalé, chaque suggestion et chaque discussion contribue directement à améliorer la plateforme.
+
+Merci de faire partie de cette aventure.
 
 ---
 
 <div align="center">
 
-### 🌿 Built for Gamers.
+### 🌿 Conçu par des joueurs, pour les joueurs.
 
-**See you in MEADOWS.**
+**À bientôt sur MEADOWS. 🦊**
 
 </div>
